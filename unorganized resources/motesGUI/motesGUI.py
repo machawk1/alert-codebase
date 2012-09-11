@@ -57,6 +57,7 @@ class motesGUI(Tkinter.Tk):
     def installDeluge(self,version="base"):
 	    BASE_PATH = os.path.expanduser("~")+"/DelugeBases/Original/"
 	    PROTOTYPE_PATH = os.path.expanduser("~")+"/DelugeBases/Prototype/"
+	    		
 	    
 	    THE_CHOSEN_PATH = BASE_PATH
 	    if version=="prototype":
@@ -138,14 +139,16 @@ class motesGUI(Tkinter.Tk):
 	    
     def getDelugeBasesFromTheWeb(self):
 	 #TODO: automatically download Deluge Bases: Original and Prototype from cs.odu.edu/~mkelly/motes/
+	
+	
 	urllib.urlretrieve(self.URL_DELUGE_BASES,os.path.expanduser("~")+self.DIR_DELUGE_BASES_TAR_GZ)
 	tar = tarfile.open(os.path.expanduser("~")+self.DIR_DELUGE_BASES_TAR_GZ)
 	tar.extractall()
 	tar.close()
 	
 	#x = self.runCommand("tar -xzf "+os.path.expanduser("~")+"/DelugeBases.tar.gz")
-	y = self.runCommand("mv "+os.path.abspath("./")+"/DelugeBases/ "+os.path.expanduser("~")+"/DelugeBases/")
-
+	y = self.runCommand("mv "+os.path.abspath("./").replace(' ', r'\ ')+"/DelugeBases/ "+os.path.expanduser("~")+"/DelugeBases/")
+	
 	#TODO: change permissions of the newly created file so we don't accidently write over the bases  
 
 	self.displayAppropriateGetDelugeButtons()
