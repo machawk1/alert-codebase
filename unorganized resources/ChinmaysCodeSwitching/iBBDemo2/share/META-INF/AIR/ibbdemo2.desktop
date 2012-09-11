@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=iBBDemo2
+Comment=Cross platform iPad Web Browser Simulator
+GenericName=iBBDemo2
+Exec='/opt'/'iBBDemo2'/bin/'iBBDemo2'
+Type=Application
+Terminal=false
+Icon=ibbdemo2
+StartupNotify=true
+X-KDE-StartupNotify=true
+Categories=Utility;
+X-AppInstall-Package=ibbdemo2
+X-AppInstall-Section=main
+
