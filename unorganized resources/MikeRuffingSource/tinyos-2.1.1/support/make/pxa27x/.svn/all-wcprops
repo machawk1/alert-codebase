@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x
+END
+reinstall.extra
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x/reinstall.extra
+END
+pxa27x.rules
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x/pxa27x.rules
+END
+jflashmm.extra
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x/jflashmm.extra
+END
+xflash.extra
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x/xflash.extra
+END
+debug.extra
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x/debug.extra
+END
+install.extra
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x/install.extra
+END
+openocd.extra
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x/openocd.extra
+END
+debugopt.extra
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/pxa27x/debugopt.extra
+END

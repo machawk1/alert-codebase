@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/atm128/adc
+END
+BlockingAdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/atm128/adc/BlockingAdcP.nc
+END
+BlockingAdcReadStreamClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/atm128/adc/BlockingAdcReadStreamClientC.nc
+END
+BlockingAdcReadClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/atm128/adc/BlockingAdcReadClientC.nc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/telosb
+END
+ReprogramGuardP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/telosb/ReprogramGuardP.nc
+END
+ReprogramGuardC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/telosb/ReprogramGuardC.nc
+END
+TOSBoot_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/telosb/TOSBoot_platform.h
+END

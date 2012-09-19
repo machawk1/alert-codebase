@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/serial
+END
+SerialActiveMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/serial/SerialActiveMessageP.nc
+END
+SerialActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/serial/SerialActiveMessageC.nc
+END

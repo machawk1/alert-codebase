@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/AntiTheft/java
+END
+antitheft.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/AntiTheft/java/antitheft.jar
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/AntiTheft/java/run
+END
+BagPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/AntiTheft/java/BagPanel.java
+END
+AntiTheftGui.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/AntiTheft/java/AntiTheftGui.java
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/AntiTheft/java/Makefile
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/AntiTheft/java/build.xml
+END

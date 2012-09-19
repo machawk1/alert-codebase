@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/universal_sensors
+END
+SampleNxConverterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/universal_sensors/SampleNxConverterC.nc
+END
+SensorSample.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/universal_sensors/SensorSample.h
+END
+SamplePeriodicLogC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/universal_sensors/SamplePeriodicLogC.nc
+END

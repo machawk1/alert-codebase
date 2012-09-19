@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/LplUnicastPeriodicDelivery
+END
+TestPeriodicC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/LplUnicastPeriodicDelivery/TestPeriodicC.nc
+END
+TestPeriodicAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/LplUnicastPeriodicDelivery/TestPeriodicAppC.nc
+END
+TestPeriodic.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/LplUnicastPeriodicDelivery/TestPeriodic.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/LplUnicastPeriodicDelivery/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/LplUnicastPeriodicDelivery/Makefile
+END

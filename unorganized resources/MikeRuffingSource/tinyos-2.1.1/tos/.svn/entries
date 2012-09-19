@@ -1,0 +1,83 @@
+10
+
+dir
+14
+https://retasking.unfuddle.com/svn/retasking_source/trunk/tinyos-2.1.1/tos
+https://retasking.unfuddle.com/svn/retasking_source
+
+
+
+2012-09-17T00:58:11.165662Z
+14
+mruffing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+048c1dc4-d575-415c-858e-656c8d49881a
+
+interfaces
+dir
+
+sensorboards
+dir
+
+system
+dir
+
+types
+dir
+
+.default-platform
+file
+
+
+
+
+2012-09-19T16:02:03.367101Z
+674441960ca1ba2de08ad4e50c9fde98
+2010-11-01T04:33:55.709199Z
+4
+mruffing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+chips
+dir
+
+lib
+dir
+
+platforms
+dir
+

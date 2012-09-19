@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/pxa27x
+END
+chip_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/pxa27x/chip_thread.h
+END
+HplPXA27xInterruptM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/pxa27x/HplPXA27xInterruptM.nc
+END
+HplPXA27xInterruptImplM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/pxa27x/HplPXA27xInterruptImplM.nc
+END

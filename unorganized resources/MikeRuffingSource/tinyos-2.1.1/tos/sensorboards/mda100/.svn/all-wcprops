@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/DemoSensorC.nc
+END
+PhotoTempConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/PhotoTempConfigP.nc
+END
+ArbitratedTempDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/ArbitratedTempDeviceP.nc
+END
+.sensor
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/.sensor
+END
+PhotoTempConfigC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/PhotoTempConfigC.nc
+END
+SharedAnalogDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/SharedAnalogDeviceP.nc
+END
+TempC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/TempC.nc
+END
+mda100.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/mda100.h
+END
+ArbitratedPhotoDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/ArbitratedPhotoDeviceP.nc
+END
+PhotoImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/PhotoImplP.nc
+END
+SharedAnalogDeviceC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/SharedAnalogDeviceC.nc
+END
+PhotoC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mda100/PhotoC.nc
+END

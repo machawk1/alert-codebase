@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/chips/sht11
+END
+HplSensirionSht11C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/chips/sht11/HplSensirionSht11C.nc
+END
+HalSensirionSht11C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/chips/sht11/HalSensirionSht11C.nc
+END
+SensirionSht11C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/chips/sht11/SensirionSht11C.nc
+END
+HplSensirionSht11P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/chips/sht11/HplSensirionSht11P.nc
+END

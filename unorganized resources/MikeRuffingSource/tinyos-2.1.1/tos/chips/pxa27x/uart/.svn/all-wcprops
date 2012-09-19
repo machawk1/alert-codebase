@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart
+END
+HplPXA27xBTUARTC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/HplPXA27xBTUARTC.nc
+END
+HplPXA27xSTUARTC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/HplPXA27xSTUARTC.nc
+END
+HalPXA27xSerialPacket.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/HalPXA27xSerialPacket.nc
+END
+HplPXA27xFFUARTC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/HplPXA27xFFUARTC.nc
+END
+HplPXA27xUART.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/HplPXA27xUART.nc
+END
+HplPXA27xUARTP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/HplPXA27xUARTP.nc
+END
+PXA27X_UARTREG.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/PXA27X_UARTREG.h
+END
+HalPXA27xSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/HalPXA27xSerialP.nc
+END
+HalPXA27xSerialCntl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/HalPXA27xSerialCntl.nc
+END
+pxa27x_serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/uart/pxa27x_serial.h
+END

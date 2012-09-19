@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/serial
+END
+SerialDevConfC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/serial/SerialDevConfC.nc
+END
+SerialPacketInfoDevConfP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/serial/SerialPacketInfoDevConfP.nc
+END
+SerialDevConf.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/serial/SerialDevConf.h
+END

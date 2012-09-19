@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkConfig
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkConfig/volumes-stm25p.xml
+END
+BlinkConfigC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkConfig/BlinkConfigC.nc
+END
+BlinkConfigAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkConfig/BlinkConfigAppC.nc
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkConfig/volumes-at45db.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkConfig/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkConfig/Makefile
+END

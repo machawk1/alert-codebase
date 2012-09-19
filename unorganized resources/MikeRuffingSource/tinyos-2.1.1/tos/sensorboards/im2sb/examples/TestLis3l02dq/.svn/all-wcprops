@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/im2sb/examples/TestLis3l02dq
+END
+TestSensorM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/im2sb/examples/TestLis3l02dq/TestSensorM.nc
+END
+TestSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/im2sb/examples/TestLis3l02dq/TestSensorC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/im2sb/examples/TestLis3l02dq/Makefile
+END

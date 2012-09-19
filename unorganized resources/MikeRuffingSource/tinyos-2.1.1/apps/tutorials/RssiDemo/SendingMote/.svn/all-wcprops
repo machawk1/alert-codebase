@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/RssiDemo/SendingMote
+END
+SendingMoteAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/RssiDemo/SendingMote/SendingMoteAppC.nc
+END
+ApplicationDefinitions.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/RssiDemo/SendingMote/ApplicationDefinitions.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/RssiDemo/SendingMote/Makefile
+END
+SendingMoteC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/RssiDemo/SendingMote/SendingMoteC.nc
+END

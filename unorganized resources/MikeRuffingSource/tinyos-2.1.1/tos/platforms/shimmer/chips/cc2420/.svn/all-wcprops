@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/cc2420
+END
+HplCC2420SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/cc2420/HplCC2420SpiC.nc
+END
+HplCC2420AlarmC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/cc2420/HplCC2420AlarmC.nc
+END
+HplCC2420InterruptsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/cc2420/HplCC2420InterruptsC.nc
+END
+HplCC2420PinsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/cc2420/HplCC2420PinsC.nc
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/lis3l02dq
+END
+HplLIS3L02DQ.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/lis3l02dq/HplLIS3L02DQ.nc
+END
+HalLIS3L02DQControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/lis3l02dq/HalLIS3L02DQControlP.nc
+END
+LIS3L02DQ.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/lis3l02dq/LIS3L02DQ.h
+END
+HalLIS3L02DQReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/lis3l02dq/HalLIS3L02DQReaderP.nc
+END
+HalLIS3L02DQAdvanced.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/lis3l02dq/HalLIS3L02DQAdvanced.nc
+END
+HplLIS3L02DQLogicSPIP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/lis3l02dq/HplLIS3L02DQLogicSPIP.nc
+END

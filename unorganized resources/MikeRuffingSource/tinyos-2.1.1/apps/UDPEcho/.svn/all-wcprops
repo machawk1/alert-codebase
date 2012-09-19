@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho/volumes-stm25p.xml
+END
+Makefile.local
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho/Makefile.local
+END
+UDPEchoP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho/UDPEchoP.nc
+END
+UDPEchoC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho/UDPEchoC.nc
+END
+UDPReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho/UDPReport.h
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho/volumes-at45db.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/UDPEcho/README
+END

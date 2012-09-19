@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- coding: iso-8859-1 -*-
+# 09112012 MAT Fixed issue of whitespace in path causing Deluge fetch to fail
 # 05262011 MAT Acquisition of Deluge and ModifiedDeluge sources and placement in the local filesystem
 # 05252011 MAT Initial Implementation
 
@@ -208,16 +209,23 @@ class motesGUI(Tkinter.Tk):
 	self.alert("Idle")
 
     def runCommand(self,cmd):
-	print cmd
-	#verify that the command is not harmful
-	#Message(Tk(), text=shlex.split(cmd), width='500px').pack(padx=10, pady=10)
+		self.execCommand(cmd,"")
+
+    def execCommand(self,cmd,extraArgs):
+	 print "Running command:\r\n> "+cmd
+	 #verify that the command is not harmful
+	 #Message(Tk(), text=shlex.split(cmd), width='500px').pack(padx=10, pady=10)
 	
-	#run the command
-	ret = subprocess.call(shlex.split(cmd))
+	 #run the command
+	 ret = subprocess.call(shlex.split(cmd))
 	
-	if ret==255: #mote wasn't connected
-		raise Exception(255)
-	else:
+	 if ret==255: #mote wasn't connected. 
+		if "-e" in cmd :
+			print "Sometimes 'erase' needs to be sent twice to get the mote to respond correctly" 
+			self.execCommand(cmd,"alreadyRun") #Note: sometimes the erase command needs to be run twice
+		else:
+			raise Exception(255)
+	 else:
 		print ret
     def alert(self,msg):
 	   self.labelVariable.set(msg)

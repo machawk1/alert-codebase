@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma
+END
+HplPXA27xDMACntl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HplPXA27xDMACntl.nc
+END
+HplPXA27xDMAC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HplPXA27xDMAC.nc
+END
+HplPXA27xDMAChnl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HplPXA27xDMAChnl.nc
+END
+HalPXA27xDMAChannelM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HalPXA27xDMAChannelM.nc
+END
+DMA.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/DMA.h
+END
+HalPXA27xDMAChannel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HalPXA27xDMAChannel.nc
+END
+HplPXA27xDMAInfo.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HplPXA27xDMAInfo.nc
+END
+HalPXA27xDMAChannelC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HalPXA27xDMAChannelC.nc
+END
+HplPXA27xDMAM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HplPXA27xDMAM.nc
+END
+HplPXA27xDMAInfoC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/dma/HplPXA27xDMAInfoC.nc
+END

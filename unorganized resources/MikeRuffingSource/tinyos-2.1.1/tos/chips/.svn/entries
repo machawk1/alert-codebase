@@ -1,0 +1,134 @@
+10
+
+dir
+14
+https://retasking.unfuddle.com/svn/retasking_source/trunk/tinyos-2.1.1/tos/chips
+https://retasking.unfuddle.com/svn/retasking_source
+
+
+
+2010-11-01T04:33:55.709199Z
+4
+mruffing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+048c1dc4-d575-415c-858e-656c8d49881a
+
+tsl2561
+dir
+
+at45db
+dir
+
+tda5250
+dir
+
+xe1205
+dir
+
+cc1000
+dir
+
+msp430
+dir
+
+ds2745
+dir
+
+ds2782
+dir
+
+pxa27x
+dir
+
+stm25p
+dir
+
+ad5200
+dir
+
+cc2420
+dir
+
+atm1281
+dir
+
+tmp175
+dir
+
+README
+file
+
+
+
+
+2012-09-19T16:01:56.763069Z
+501de3eecbeb3b091b19e1416f9e78f3
+2010-11-01T04:33:55.709199Z
+4
+mruffing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3317
+
+m16c62p
+dir
+
+mma7261qt
+dir
+
+sht11
+dir
+
+mm74hc595
+dir
+
+cc2420_tkn154
+dir
+
+max136x
+dir
+
+rf2xx
+dir
+
+atm128
+dir
+
+lis3l02dq
+dir
+
+ds2401
+dir
+

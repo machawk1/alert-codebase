@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/tinynode/chips/xe1205
+END
+Xe1205Spi0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/tinynode/chips/xe1205/Xe1205Spi0C.nc
+END
+HplXE1205PinsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/tinynode/chips/xe1205/HplXE1205PinsC.nc
+END
+HplXE1205SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/tinynode/chips/xe1205/HplXE1205SpiC.nc
+END
+HplXE1205InterruptsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/tinynode/chips/xe1205/HplXE1205InterruptsC.nc
+END
+Xe1205SpiNoDma0P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/tinynode/chips/xe1205/Xe1205SpiNoDma0P.nc
+END
+Xe1205SpiNoDmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/tinynode/chips/xe1205/Xe1205SpiNoDmaP.nc
+END

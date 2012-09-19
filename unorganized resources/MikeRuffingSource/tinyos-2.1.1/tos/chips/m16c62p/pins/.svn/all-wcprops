@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins
+END
+HplM16c62pInterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pInterruptC.nc
+END
+HplM16c62pInterruptSig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pInterruptSig.nc
+END
+HplM16c62pInterruptSigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pInterruptSigP.nc
+END
+HplM16c62pGeneralIOPinPRC2P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pGeneralIOPinPRC2P.nc
+END
+HplM16c62pInterruptPinP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pInterruptPinP.nc
+END
+HplM16c62pGeneralIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pGeneralIOC.nc
+END
+M16c62pPin.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/M16c62pPin.h
+END
+HplM16c62pGeneralIOPortP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pGeneralIOPortP.nc
+END
+M16c62pInterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/M16c62pInterruptC.nc
+END
+HplM16c62pGeneralIOPinP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pGeneralIOPinP.nc
+END
+HplM16c62pInterrupt.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/pins/HplM16c62pInterrupt.nc
+END

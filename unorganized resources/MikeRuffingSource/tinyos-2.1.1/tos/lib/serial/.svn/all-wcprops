@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial
+END
+SerialFlush.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialFlush.nc
+END
+SerialAMQueueP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialAMQueueP.nc
+END
+SerialActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialActiveMessageC.nc
+END
+SerialPacketInfo.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialPacketInfo.nc
+END
+SerialAMReceiverC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialAMReceiverC.nc
+END
+SerialPacketInfo802_15_4P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialPacketInfo802_15_4P.nc
+END
+SerialDispatcherC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialDispatcherC.nc
+END
+HdlcTranslateC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/HdlcTranslateC.nc
+END
+ReceiveBytePacket.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/ReceiveBytePacket.nc
+END
+SerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialP.nc
+END
+SerialActiveMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialActiveMessageP.nc
+END
+SerialAMSenderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialAMSenderC.nc
+END
+Serial802_15_4C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/Serial802_15_4C.nc
+END
+SerialPacketInfoActiveMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialPacketInfoActiveMessageP.nc
+END
+SerialQueueP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialQueueP.nc
+END
+SendBytePacket.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SendBytePacket.nc
+END
+SerialFrameComm.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialFrameComm.nc
+END
+SerialDispatcherP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialDispatcherP.nc
+END
+Serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/Serial.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/README.txt
+END
+SerialByteComm.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/serial/SerialByteComm.nc
+END

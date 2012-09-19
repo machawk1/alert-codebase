@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors
+END
+CoulombCounterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/CoulombCounterP.nc
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/DemoSensorC.nc
+END
+TempExtSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/TempExtSensorC.nc
+END
+sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/sensors.h
+END
+PhotoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/PhotoSensorC.nc
+END
+ReadStreamShiftC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/ReadStreamShiftC.nc
+END
+SensorSettingsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/SensorSettingsC.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/DemoSensorStreamC.nc
+END
+BatteryLevelSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/BatteryLevelSensorC.nc
+END
+ReadNowShiftC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/ReadNowShiftC.nc
+END
+CoulombCounter.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/CoulombCounter.nc
+END
+TempExtSensorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/TempExtSensorP.nc
+END
+BatteryLevel.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/BatteryLevel.nc
+END
+CoulombCounterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/CoulombCounterC.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/DemoSensorNowC.nc
+END
+RssiSensorVccC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/RssiSensorVccC.nc
+END
+ReadShiftC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/ReadShiftC.nc
+END
+RssiSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/sensors/RssiSensorC.nc
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/14/trunk/tinyos-2.1.1/apps/tests/deluge/Blink
+END
+BlinkC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/14/trunk/tinyos-2.1.1/apps/tests/deluge/Blink/BlinkC.nc
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/Blink/volumes-stm25p.xml
+END
+BlinkAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/14/trunk/tinyos-2.1.1/apps/tests/deluge/Blink/BlinkAppC.nc
+END
+burn
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/Blink/burn
+END
+burn-net
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/Blink/burn-net
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/10/trunk/tinyos-2.1.1/apps/tests/deluge/Blink/volumes-at45db.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/Blink/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/10/trunk/tinyos-2.1.1/apps/tests/deluge/Blink/Makefile
+END

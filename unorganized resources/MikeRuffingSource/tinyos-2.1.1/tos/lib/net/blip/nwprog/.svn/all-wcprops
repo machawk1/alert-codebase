@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog
+END
+DelugeReadIdent.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugeReadIdent.nc
+END
+DelugePatch.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugePatch.nc
+END
+DelugeReadIdentClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugeReadIdentClientC.nc
+END
+DelugePatchClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugePatchClientC.nc
+END
+DelugeReadIdentC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugeReadIdentC.nc
+END
+DelugePatchC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugePatchC.nc
+END
+DelugeVerify.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugeVerify.nc
+END
+NWProgP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/NWProgP.nc
+END
+DelugeVerifyClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugeVerifyClientC.nc
+END
+Deluge.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/Deluge.h
+END
+DelugeVerifyC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugeVerifyC.nc
+END
+DelugeReadIdentP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugeReadIdentP.nc
+END
+DelugePatchP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugePatchP.nc
+END
+BootImage.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/BootImage.nc
+END
+DelugeVerifyP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/DelugeVerifyP.nc
+END
+NWProgC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/nwprog/NWProgC.nc
+END

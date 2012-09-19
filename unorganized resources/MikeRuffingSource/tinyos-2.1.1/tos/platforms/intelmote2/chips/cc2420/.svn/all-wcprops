@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/chips/cc2420
+END
+HplCC2420SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/chips/cc2420/HplCC2420SpiC.nc
+END
+HplCC2420AlarmC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/chips/cc2420/HplCC2420AlarmC.nc
+END
+IM2CC2420SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/chips/cc2420/IM2CC2420SpiP.nc
+END
+HplCC2420InterruptsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/chips/cc2420/HplCC2420InterruptsC.nc
+END
+IM2CC2420InitSpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/chips/cc2420/IM2CC2420InitSpiP.nc
+END
+HplCC2420PinsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/chips/cc2420/HplCC2420PinsC.nc
+END

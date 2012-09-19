@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarespi
+END
+SoftSpiBus.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarespi/SoftSpiBus.nc
+END
+SoftSpiBusP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarespi/SoftSpiBusP.nc
+END
+SoftSpiMasterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarespi/SoftSpiMasterP.nc
+END
+SoftSpiMasterImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarespi/SoftSpiMasterImplP.nc
+END
+SoftSpiMasterPacketP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarespi/SoftSpiMasterPacketP.nc
+END

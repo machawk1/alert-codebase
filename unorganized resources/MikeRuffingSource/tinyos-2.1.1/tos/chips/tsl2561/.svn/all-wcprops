@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tsl2561
+END
+HplTSL2561LogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tsl2561/HplTSL2561LogicP.nc
+END
+HalTsl2561ControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tsl2561/HalTsl2561ControlP.nc
+END
+HalTsl2561ReaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tsl2561/HalTsl2561ReaderP.nc
+END
+HalTsl2561Advanced.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tsl2561/HalTsl2561Advanced.nc
+END
+HplTSL256x.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tsl2561/HplTSL256x.nc
+END
+TSL256x.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tsl2561/TSL256x.h
+END

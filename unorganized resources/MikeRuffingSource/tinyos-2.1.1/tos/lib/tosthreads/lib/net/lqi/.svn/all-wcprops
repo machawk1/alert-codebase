@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/net/lqi
+END
+CCollectionC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/net/lqi/CCollectionC.nc
+END
+BlockingCollectionSenderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/net/lqi/BlockingCollectionSenderP.nc
+END
+ccollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/net/lqi/ccollection.h
+END
+BlockingCollectionSenderImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/net/lqi/BlockingCollectionSenderImplP.nc
+END
+BlockingCollectionSenderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/net/lqi/BlockingCollectionSenderC.nc
+END
+CCollectionIdP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/net/lqi/CCollectionIdP.nc
+END
+CCollectionP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/lib/net/lqi/CCollectionP.nc
+END

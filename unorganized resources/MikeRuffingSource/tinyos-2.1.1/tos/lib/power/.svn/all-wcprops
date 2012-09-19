@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power
+END
+InfiniteRetryPowerManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/InfiniteRetryPowerManagerP.nc
+END
+AsyncStdControlPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/AsyncStdControlPowerManagerC.nc
+END
+AsyncPowerManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/AsyncPowerManagerP.nc
+END
+AsyncStdControlDeferredPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/AsyncStdControlDeferredPowerManagerC.nc
+END
+AsyncDeferredPowerManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/AsyncDeferredPowerManagerP.nc
+END
+StdControlPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/StdControlPowerManagerC.nc
+END
+PowerManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/PowerManagerP.nc
+END
+SplitControlPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/SplitControlPowerManagerC.nc
+END
+StdControlDeferredPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/StdControlDeferredPowerManagerC.nc
+END
+DeferredPowerManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/DeferredPowerManagerP.nc
+END
+SplitControlDeferredPowerManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/SplitControlDeferredPowerManagerC.nc
+END
+PowerDownCleanup.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/power/PowerDownCleanup.nc
+END

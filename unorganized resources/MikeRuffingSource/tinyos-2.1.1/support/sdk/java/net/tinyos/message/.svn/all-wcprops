@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/message
+END
+Sender.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/message/Sender.java
+END
+MoteIF.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/message/MoteIF.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/message/Message.java
+END
+Receiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/message/Receiver.java
+END
+MessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/message/MessageListener.java
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/message/Makefile
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/message/package.html
+END

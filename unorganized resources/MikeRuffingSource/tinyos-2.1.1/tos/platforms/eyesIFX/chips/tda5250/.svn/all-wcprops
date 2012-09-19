@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250
+END
+Tda5250RegCommC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/Tda5250RegCommC.nc
+END
+Tda5250ASKNFSKFakePinP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/Tda5250ASKNFSKFakePinP.nc
+END
+Tda5250RadioInterruptC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/Tda5250RadioInterruptC.nc
+END
+HplTda5250DataIOP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/HplTda5250DataIOP.nc
+END
+HplTda5250DataIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/HplTda5250DataIOC.nc
+END
+Tda5250RadioIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/Tda5250RadioIOC.nc
+END
+eyesIFXBaudrates.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/eyesIFXBaudrates.h
+END
+tda5250BusResourceSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/tda5250BusResourceSettings.h
+END
+tda5250RegDefaultSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/chips/tda5250/tda5250RegDefaultSettings.h
+END

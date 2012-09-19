@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo
+END
+SharedResourceImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/SharedResourceImplP.nc
+END
+SharedResourceC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/SharedResourceC.nc
+END
+SharedResourceDemoC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/SharedResourceDemoC.nc
+END
+ResourceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/ResourceP.nc
+END
+SharedResourceDemoAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/SharedResourceDemoAppC.nc
+END
+ResourceOperations.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/ResourceOperations.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/Makefile
+END
+SharedResourceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/SharedResourceDemo/SharedResourceP.nc
+END

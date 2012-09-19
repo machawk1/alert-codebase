@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/sensorboards/universal
+END
+BlockingSineSensorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/sensorboards/universal/BlockingSineSensorP.nc
+END
+BlockingSineSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/sensorboards/universal/BlockingSineSensorC.nc
+END
+CSineSensorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/sensorboards/universal/CSineSensorP.nc
+END
+universal_sensors.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/sensorboards/universal/universal_sensors.h
+END
+tosthread_sinesensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/sensorboards/universal/tosthread_sinesensor.h
+END
+CSineSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/sensorboards/universal/CSineSensorC.nc
+END
