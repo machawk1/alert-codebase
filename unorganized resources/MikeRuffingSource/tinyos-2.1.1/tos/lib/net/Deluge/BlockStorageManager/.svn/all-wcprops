@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager
+END
+BlockReaderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/BlockReaderC.nc
+END
+BlockStorageManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/BlockStorageManager.h
+END
+VolumeId.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/VolumeId.nc
+END
+VolumeIdC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/VolumeIdC.nc
+END
+BlockStorageLockClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/BlockStorageLockClientC.nc
+END
+BlockStorageManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/BlockStorageManagerP.nc
+END
+BlockWriterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/BlockWriterC.nc
+END
+BlockStorageLockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/BlockStorageLockC.nc
+END
+BlockStorageManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BlockStorageManager/BlockStorageManagerC.nc
+END

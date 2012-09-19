@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/10/trunk/tinyos-2.1.1/apps/tests/deluge/Basestation
+END
+BasestationAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/10/trunk/tinyos-2.1.1/apps/tests/deluge/Basestation/BasestationAppC.nc
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/Basestation/volumes-stm25p.xml
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/10/trunk/tinyos-2.1.1/apps/tests/deluge/Basestation/volumes-at45db.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/Basestation/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/Basestation/Makefile
+END

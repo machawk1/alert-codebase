@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/DemoSensorC.nc
+END
+TempStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/TempStreamC.nc
+END
+TempDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/TempDeviceP.nc
+END
+TempP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/TempP.nc
+END
+.sensor
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/.sensor
+END
+PhotoStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/PhotoStreamC.nc
+END
+TempC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/TempC.nc
+END
+PhotoDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/PhotoDeviceP.nc
+END
+PhotoP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/PhotoP.nc
+END
+PhotoC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/PhotoC.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/DemoSensorStreamC.nc
+END
+basicsb.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/basicsb/basicsb.h
+END

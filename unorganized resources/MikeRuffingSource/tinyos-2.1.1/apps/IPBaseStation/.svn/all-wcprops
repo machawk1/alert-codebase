@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/IPBaseStation
+END
+Reset.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/IPBaseStation/Reset.nc
+END
+ResetC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/IPBaseStation/ResetC.nc
+END
+Reset.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/IPBaseStation/Reset.h
+END
+BaseStationP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/IPBaseStation/BaseStationP.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/IPBaseStation/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/IPBaseStation/README
+END
+BaseStationC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/IPBaseStation/BaseStationC.nc
+END

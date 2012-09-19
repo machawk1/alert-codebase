@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/NxFloat
+END
+TestSerial.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/NxFloat/TestSerial.java
+END
+TestSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/NxFloat/TestSerialC.nc
+END
+TestSerialAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/NxFloat/TestSerialAppC.nc
+END
+TestSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/NxFloat/TestSerial.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/NxFloat/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/NxFloat/Makefile
+END

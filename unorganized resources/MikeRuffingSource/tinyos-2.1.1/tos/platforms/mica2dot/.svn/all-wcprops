@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/DemoSensorC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/.platform
+END
+TempStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/TempStreamC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/hardware.h
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/DemoSensorNowC.nc
+END
+TempDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/TempDeviceP.nc
+END
+TempP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/TempP.nc
+END
+TempC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/TempC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/platform.h
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/MotePlatformC.nc
+END
+TempNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/TempNowC.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/DemoSensorStreamC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2dot/PlatformLedsC.nc
+END

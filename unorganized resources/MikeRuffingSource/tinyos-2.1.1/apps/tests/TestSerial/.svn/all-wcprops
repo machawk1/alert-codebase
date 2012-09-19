@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSerial
+END
+TestSerial.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSerial/TestSerial.java
+END
+TestSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSerial/TestSerialC.nc
+END
+TestSerialAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSerial/TestSerialAppC.nc
+END
+TestSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSerial/TestSerial.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSerial/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSerial/Makefile
+END

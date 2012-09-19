@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/configure.ac
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/bootstrap.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/Makefile.am
+END
+serial_tun.conf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/serial_tun.conf
+END

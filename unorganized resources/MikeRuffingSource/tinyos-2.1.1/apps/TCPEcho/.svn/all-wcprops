@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/TCPEcho
+END
+HttpdP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/TCPEcho/HttpdP.nc
+END
+TCPEchoP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/TCPEcho/TCPEchoP.nc
+END
+TCPEchoC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/TCPEcho/TCPEchoC.nc
+END
+UDPReport.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/TCPEcho/UDPReport.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/TCPEcho/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/TCPEcho/README
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode
+END
+bsl.extra
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/bsl.extra
+END
+tinynode.rules
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/tinynode.rules
+END
+init.gdb.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/init.gdb.in
+END
+xedebug.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/xedebug.in
+END
+noflash.gdb.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/noflash.gdb.in
+END
+noflash.extra
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/noflash.extra
+END
+flash.gdb.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/flash.gdb.in
+END
+digi.extra
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/digi.extra
+END
+gdb.extra
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode/gdb.extra
+END

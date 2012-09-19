@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/retasking_source/!svn/ver/13/trunk/RetaskingMonitorTool
+END
+tinyos.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/13/trunk/RetaskingMonitorTool/tinyos.jar
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/retasking_source/!svn/ver/13/trunk/RetaskingMonitorTool/manifest.mf
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/13/trunk/RetaskingMonitorTool/readme.txt
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/retasking_source/!svn/ver/13/trunk/RetaskingMonitorTool/build.xml
+END
+readme.url
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/13/trunk/RetaskingMonitorTool/readme.url
+END

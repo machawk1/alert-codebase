@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/tinyld/SerialLoader
+END
+SerialLoaderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/tinyld/SerialLoader/SerialLoaderP.nc
+END
+SerialLoaderAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/tinyld/SerialLoader/SerialLoaderAppC.nc
+END
+SerialLoader.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/tinyld/SerialLoader/SerialLoader.h
+END
+tinyos.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/tinyld/SerialLoader/tinyos.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/tinyld/SerialLoader/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/tinyld/SerialLoader/README
+END
+serialloader.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/tinyld/SerialLoader/serialloader.py
+END

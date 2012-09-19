@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/micaz
+END
+InternalFlash.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/micaz/InternalFlash.h
+END
+ReprogramGuardP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/micaz/ReprogramGuardP.nc
+END
+ReprogramGuardC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/micaz/ReprogramGuardC.nc
+END
+TOSBoot_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/extra/micaz/TOSBoot_platform.h
+END

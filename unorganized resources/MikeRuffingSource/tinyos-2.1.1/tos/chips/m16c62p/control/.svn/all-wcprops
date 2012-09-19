@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control
+END
+SystemClockControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/SystemClockControl.nc
+END
+M16c62pControlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/M16c62pControlC.nc
+END
+M16c62pControlPlatform.nc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/M16c62pControlPlatform.nc
+END
+SystemClockControlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/SystemClockControlC.nc
+END
+M16c62pControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/M16c62pControl.h
+END
+StopModeControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/StopModeControl.nc
+END
+StopModeControlC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/StopModeControlC.nc
+END
+M16c62pControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/M16c62pControl.nc
+END
+M16c62pControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/control/M16c62pControlP.nc
+END

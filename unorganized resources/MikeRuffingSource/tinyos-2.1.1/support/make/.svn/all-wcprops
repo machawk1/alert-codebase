@@ -1,0 +1,281 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make
+END
+savepp.extra
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/savepp.extra
+END
+sim-sf.extra
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/sim-sf.extra
+END
+wiring.extra
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/wiring.extra
+END
+tos_buildinfo.extra
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tos_buildinfo.extra
+END
+tunit.extra
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tunit.extra
+END
+verbose.extra
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/verbose.extra
+END
+appdoc.extra
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/appdoc.extra
+END
+tos_image.extra
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tos_image.extra
+END
+safe.extra
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/safe.extra
+END
+ident_flags.extra
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/ident_flags.extra
+END
+eyesIFX.target
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/eyesIFX.target
+END
+epic.target
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/epic.target
+END
+sim-fast.extra
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/sim-fast.extra
+END
+clean.target
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/clean.target
+END
+intelmote2.target
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/intelmote2.target
+END
+eyesIFXv1.target
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/eyesIFXv1.target
+END
+blip.extra
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/blip.extra
+END
+docs.extra
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/docs.extra
+END
+telos.target
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/telos.target
+END
+tosboot.extra
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tosboot.extra
+END
+threads.extra
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/threads.extra
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/Makefile
+END
+telosb.target
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/telosb.target
+END
+nowiring.extra
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/nowiring.extra
+END
+cthreads.extra
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/cthreads.extra
+END
+mica2.target
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/mica2.target
+END
+mica2dot.target
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/mica2dot.target
+END
+dynthreads.extra
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/dynthreads.extra
+END
+Makerules
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/Makerules
+END
+micaz.target
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/micaz.target
+END
+shimmer.target
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/shimmer.target
+END
+iris.target
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/iris.target
+END
+eval-crash.diff
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/eval-crash.diff
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/README
+END
+all.target
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/all.target
+END
+null.target
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/null.target
+END
+tframe.extra
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tframe.extra
+END
+stack-check.extra
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/stack-check.extra
+END
+mulle.target
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/mulle.target
+END
+Makedefaults
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/Makedefaults
+END
+eyesIFXv2.target
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/eyesIFXv2.target
+END
+sim.extra
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/sim.extra
+END
+shimmer2.target
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/shimmer2.target
+END
+telosa.target
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/telosa.target
+END
+tmote.target
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tmote.target
+END
+tinynode.target
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/tinynode.target
+END

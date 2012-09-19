@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestNetworkLpl
+END
+ctp-dump.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestNetworkLpl/ctp-dump.py
+END
+TestNetworkLplC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestNetworkLpl/TestNetworkLplC.nc
+END
+TestNetworkLplAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestNetworkLpl/TestNetworkLplAppC.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestNetworkLpl/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestNetworkLpl/Makefile
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/epic/chips/at45db
+END
+HplAt45db_chip.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/epic/chips/at45db/HplAt45db_chip.h
+END
+HplAt45dbP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/epic/chips/at45db/HplAt45dbP.nc
+END
+HplAt45dbC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/epic/chips/at45db/HplAt45dbC.nc
+END

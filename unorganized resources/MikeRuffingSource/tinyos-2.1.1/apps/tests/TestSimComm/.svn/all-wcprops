@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/run
+END
+test-equal.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/test-equal.py
+END
+meyer-short.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/meyer-short.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/README
+END
+TestCommC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/TestCommC.nc
+END
+test-asym.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/test-asym.py
+END
+TestCommAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/TestCommAppC.nc
+END
+test-unequal.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestSimComm/test-unequal.py
+END

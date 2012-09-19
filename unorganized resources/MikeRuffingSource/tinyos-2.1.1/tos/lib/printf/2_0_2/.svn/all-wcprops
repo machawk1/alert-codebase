@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/printf/2_0_2
+END
+avr_stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/printf/2_0_2/avr_stdio.h
+END
+PrintfP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/printf/2_0_2/PrintfP.nc
+END
+PrintfFlush.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/printf/2_0_2/PrintfFlush.nc
+END
+PrintfC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/printf/2_0_2/PrintfC.nc
+END
+printf.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/printf/2_0_2/printf.h
+END

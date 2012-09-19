@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/TestLogStorage
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/TestLogStorage/volumes-stm25p.xml
+END
+volumes-pxa27xp30.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/TestLogStorage/volumes-pxa27xp30.xml
+END
+TestLogStorage.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/TestLogStorage/TestLogStorage.c
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/TestLogStorage/volumes-at45db.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/TestLogStorage/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/TestLogStorage/README
+END

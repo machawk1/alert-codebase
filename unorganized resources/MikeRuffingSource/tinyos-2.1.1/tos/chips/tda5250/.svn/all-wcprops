@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250
+END
+HplTda5250ConfigC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/HplTda5250ConfigC.nc
+END
+HplTda5250Data.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/HplTda5250Data.nc
+END
+tda5250Const.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/tda5250Const.h
+END
+tda5250RegDefaultsSettings.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/tda5250RegDefaultsSettings.h
+END
+Tda5250RadioP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250RadioP.nc
+END
+HplTda5250DataControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/HplTda5250DataControl.nc
+END
+RfPower.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/RfPower.nc
+END
+Tda5250Control.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250Control.nc
+END
+HplTda5250DataC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/HplTda5250DataC.nc
+END
+Tda5250ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250ActiveMessageC.nc
+END
+Tda5250RegistersP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250RegistersP.nc
+END
+Tda5250WriteReg.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250WriteReg.nc
+END
+HplTda5250ConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/HplTda5250ConfigP.nc
+END
+Tda5250RegComm.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250RegComm.nc
+END
+tda5250RegTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/tda5250RegTypes.h
+END
+HplTda5250DataP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/HplTda5250DataP.nc
+END
+Tda5250ActiveMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250ActiveMessageP.nc
+END
+Tda5250RadioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250RadioC.nc
+END
+Tda5250Packet.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250Packet.nc
+END
+ClkDiv.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/ClkDiv.nc
+END
+tda5250Control.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/tda5250Control.h
+END
+Tda5250ReadReg.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250ReadReg.nc
+END
+HplTda5250Config.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/HplTda5250Config.nc
+END
+Tda5250RegCommP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250RegCommP.nc
+END
+Tda5250RegistersC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/Tda5250RegistersC.nc
+END
+tda5250_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/tda5250/tda5250_message.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/ds2782
+END
+DS2782.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/ds2782/DS2782.h
+END
+HplDS2782LogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/ds2782/HplDS2782LogicP.nc
+END
+HplDS2782.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/ds2782/HplDS2782.nc
+END

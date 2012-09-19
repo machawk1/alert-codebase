@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica
+END
+MeasureClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/MeasureClockC.nc
+END
+VoltageStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/VoltageStreamC.nc
+END
+CounterThree16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/CounterThree16C.nc
+END
+CounterMicro32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/CounterMicro32C.nc
+END
+VoltageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/VoltageP.nc
+END
+InitOneP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/InitOneP.nc
+END
+MicaBusC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/MicaBusC.nc
+END
+Alarm32khz32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/Alarm32khz32C.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/PlatformC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/PlatformSerialC.nc
+END
+VoltageNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/VoltageNowC.nc
+END
+MicaBusAdc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/MicaBusAdc.nc
+END
+CounterOne16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/CounterOne16C.nc
+END
+AlarmThree16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/AlarmThree16C.nc
+END
+AlarmMicro32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/AlarmMicro32C.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/PlatformLedsC.nc
+END
+MicaTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/MicaTimer.h
+END
+AlarmCounterMilliP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/AlarmCounterMilliP.nc
+END
+MicaBusP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/MicaBusP.nc
+END
+BusyWaitMicroC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/BusyWaitMicroC.nc
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/PlatformP.nc
+END
+VoltageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/VoltageC.nc
+END
+HilTimerMilliC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/HilTimerMilliC.nc
+END
+AlarmOne16C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/AlarmOne16C.nc
+END
+Counter32khz32C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/Counter32khz32C.nc
+END
+InitThreeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/InitThreeP.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/platform.h
+END

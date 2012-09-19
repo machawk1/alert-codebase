@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestDissemination
+END
+topo.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestDissemination/topo.txt
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestDissemination/test.py
+END
+TestDisseminationC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestDissemination/TestDisseminationC.nc
+END
+TestDisseminationAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestDissemination/TestDisseminationAppC.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestDissemination/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestDissemination/Makefile
+END

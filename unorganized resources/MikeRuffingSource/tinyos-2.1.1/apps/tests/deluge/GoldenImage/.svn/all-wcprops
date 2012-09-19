@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/GoldenImage
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/GoldenImage/volumes-stm25p.xml
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/GoldenImage/volumes-at45db.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/GoldenImage/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/GoldenImage/Makefile
+END
+GoldenImageAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/GoldenImage/GoldenImageAppC.nc
+END

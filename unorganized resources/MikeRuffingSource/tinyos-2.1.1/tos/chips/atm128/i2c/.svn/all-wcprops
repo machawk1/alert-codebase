@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c
+END
+Atm128I2C.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/Atm128I2C.h
+END
+Atm128I2CMaster.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/Atm128I2CMaster.nc
+END
+Atm128I2CMasterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/Atm128I2CMasterP.nc
+END
+Atm128I2CMasterImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/Atm128I2CMasterImplP.nc
+END
+HplAtm128I2CBus.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/HplAtm128I2CBus.nc
+END
+HplAtm128I2CBusP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/HplAtm128I2CBusP.nc
+END
+Atm128I2CMasterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/Atm128I2CMasterC.nc
+END
+Atm128I2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/Atm128I2C.nc
+END
+HplAtm128I2CBusC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/HplAtm128I2CBusC.nc
+END
+Atm128I2CMasterPacketP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm128/i2c/Atm128I2CMasterPacketP.nc
+END

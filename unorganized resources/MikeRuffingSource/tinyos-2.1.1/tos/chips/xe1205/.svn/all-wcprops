@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205
+END
+XE1205LowPowerListeningP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205LowPowerListeningP.nc
+END
+XE1205SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205SpiP.nc
+END
+XE1205SendReceiveP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205SendReceiveP.nc
+END
+xe1205debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/xe1205debug.h
+END
+CsmaControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/CsmaControl.nc
+END
+XE1205LowPowerListening.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205LowPowerListening.h
+END
+XE1205Fifo.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205Fifo.nc
+END
+XE1205ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205ActiveMessageC.nc
+END
+LPLControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/LPLControl.nc
+END
+LowPowerListening.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/LowPowerListening.nc
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/crc.h
+END
+XE1205SpiImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205SpiImplP.nc
+END
+XE1205LowPowerListeningC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205LowPowerListeningC.nc
+END
+XE1205SpiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205SpiC.nc
+END
+XE1205SendReceiveC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205SendReceiveC.nc
+END
+XE1205ActiveMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205ActiveMessageP.nc
+END
+XE1205CsmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205CsmaP.nc
+END
+XE1205CsmaRadioC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205CsmaRadioC.nc
+END
+XE1205.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205.h
+END
+AckSendReceive.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/AckSendReceive.nc
+END
+XE1205PacketC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/xe1205/XE1205PacketC.nc
+END

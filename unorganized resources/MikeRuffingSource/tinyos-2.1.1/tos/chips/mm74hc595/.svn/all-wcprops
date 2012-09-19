@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/mm74hc595
+END
+MM74HC595P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/mm74hc595/MM74HC595P.nc
+END
+MM74HC595ImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/mm74hc595/MM74HC595ImplP.nc
+END
+MM74HC595C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/mm74hc595/MM74HC595C.nc
+END

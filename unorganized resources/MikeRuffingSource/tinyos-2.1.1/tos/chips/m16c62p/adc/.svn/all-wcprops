@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc
+END
+M16c62pAdcMultiple.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/M16c62pAdcMultiple.nc
+END
+AdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/AdcStreamP.nc
+END
+AdcReadClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/AdcReadClientC.nc
+END
+M16c62pAdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/M16c62pAdcP.nc
+END
+HplM16c62pAdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/HplM16c62pAdcP.nc
+END
+M16c62pAdcConfig.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/M16c62pAdcConfig.nc
+END
+M16c62pAdc.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/M16c62pAdc.h
+END
+WireAdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/WireAdcP.nc
+END
+AdcReadStreamClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/AdcReadStreamClientC.nc
+END
+AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/AdcP.nc
+END
+M16c62pAdcSingle.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/M16c62pAdcSingle.nc
+END
+M16c62pAdcC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/M16c62pAdcC.nc
+END
+AdcReadNowClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/AdcReadNowClientC.nc
+END
+HplM16c62pAdc.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/HplM16c62pAdc.nc
+END
+WireAdcStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/WireAdcStreamP.nc
+END
+M16c62pAdcPlatform.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/M16c62pAdcPlatform.nc
+END
+HplM16c62pAdcC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/HplM16c62pAdcC.nc
+END
+Adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/adc/Adc.h
+END

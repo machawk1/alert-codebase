@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm1281/adc
+END
+Atm128AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm1281/adc/Atm128AdcP.nc
+END
+HplAtm128AdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm1281/adc/HplAtm128AdcP.nc
+END
+Atm128Adc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/atm1281/adc/Atm128Adc.h
+END

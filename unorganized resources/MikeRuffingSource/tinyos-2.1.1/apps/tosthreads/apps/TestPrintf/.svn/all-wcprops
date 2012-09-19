@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/apps/TestPrintf
+END
+TestPrintfC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/apps/TestPrintf/TestPrintfC.nc
+END
+TestPrintfAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/apps/TestPrintf/TestPrintfAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/apps/TestPrintf/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/apps/TestPrintf/README
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/SenseStoreAndForward
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/SenseStoreAndForward/volumes-stm25p.xml
+END
+SenseStoreAndForward.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/SenseStoreAndForward/SenseStoreAndForward.c
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/SenseStoreAndForward/volumes-at45db.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/SenseStoreAndForward/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tosthreads/capps/SenseStoreAndForward/README
+END

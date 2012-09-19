@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c
+END
+MulleI2C.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c/MulleI2C.h
+END
+SoftI2CBus.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c/SoftI2CBus.nc
+END
+SoftI2CBusP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c/SoftI2CBusP.nc
+END
+SoftI2CBatteryMonitorRTCP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c/SoftI2CBatteryMonitorRTCP.nc
+END
+SoftI2CMasterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c/SoftI2CMasterP.nc
+END
+SoftI2CMasterImplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c/SoftI2CMasterImplP.nc
+END
+SoftI2CBatteryMonitorRTCC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c/SoftI2CBatteryMonitorRTCC.nc
+END
+SoftI2CMasterPacketP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/softwarei2c/SoftI2CMasterPacketP.nc
+END

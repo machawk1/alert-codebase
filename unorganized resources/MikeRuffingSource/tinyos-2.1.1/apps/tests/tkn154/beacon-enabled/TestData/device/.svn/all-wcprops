@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/tkn154/beacon-enabled/TestData/device
+END
+TestDeviceSenderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/tkn154/beacon-enabled/TestData/device/TestDeviceSenderC.nc
+END
+TestDataAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/tkn154/beacon-enabled/TestData/device/TestDataAppC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/tkn154/beacon-enabled/TestData/device/Makefile
+END

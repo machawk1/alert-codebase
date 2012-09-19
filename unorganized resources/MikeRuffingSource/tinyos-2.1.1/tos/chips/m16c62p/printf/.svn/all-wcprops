@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/printf
+END
+m16c62p_printf.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/printf/m16c62p_printf.h
+END
+elib.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/printf/elib.c
+END

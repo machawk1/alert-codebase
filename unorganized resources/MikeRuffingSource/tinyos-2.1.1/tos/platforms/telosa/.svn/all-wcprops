@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa
+END
+VoltageStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/VoltageStreamC.nc
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/DemoSensorC.nc
+END
+MoteClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/MoteClockC.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/ActiveMessageC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/hardware.h
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/PlatformSerialC.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/PlatformC.nc
+END
+MSP430ADC12ChannelConfigM.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/MSP430ADC12ChannelConfigM.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/DemoSensorStreamC.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/PlatformLedsC.nc
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/TimeSyncMessageC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/.platform
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/PlatformP.nc
+END
+VoltageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/VoltageC.nc
+END
+DemoSensorNowC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/DemoSensorNowC.nc
+END
+TelosSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/TelosSerialP.nc
+END
+Ieee154MessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/Ieee154MessageC.nc
+END
+Msp430Timer32khzMapC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/Msp430Timer32khzMapC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/platform.h
+END
+MotePlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/MotePlatformC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/telosa/platform_message.h
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/tools
+END
+PrintfClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/tools/PrintfClient.java
+END
+ListenRaw.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/tools/ListenRaw.java
+END
+MsgReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/tools/MsgReader.java
+END
+Send.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/tools/Send.java
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/tools/Makefile
+END
+Listen.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/tools/Listen.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/tools/package.html
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430
+END
+HardwareC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430/HardwareC.nc
+END
+HplUsartControl.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430/HplUsartControl.nc
+END
+VoltageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430/VoltageC.nc
+END
+HplUsart0C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430/HplUsart0C.nc
+END
+ProgFlashC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430/ProgFlashC.nc
+END
+InternalFlashC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430/InternalFlashC.nc
+END

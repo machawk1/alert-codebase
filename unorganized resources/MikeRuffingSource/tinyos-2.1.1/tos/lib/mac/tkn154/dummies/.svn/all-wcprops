@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies
+END
+NoBeaconSynchronizeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoBeaconSynchronizeP.nc
+END
+NoDispatchQueueP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoDispatchQueueP.nc
+END
+NoScanP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoScanP.nc
+END
+NoDeviceCfpP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoDeviceCfpP.nc
+END
+NoBeaconTransmitP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoBeaconTransmitP.nc
+END
+NoCoordBroadcastP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoCoordBroadcastP.nc
+END
+NoAssociateP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoAssociateP.nc
+END
+NoDisassociateP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoDisassociateP.nc
+END
+NoCoordRealignmentP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoCoordRealignmentP.nc
+END
+NoPromiscuousModeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoPromiscuousModeP.nc
+END
+NoCoordCfpP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoCoordCfpP.nc
+END
+NoRxEnableP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoRxEnableP.nc
+END
+NoDispatchSlottedCsmaP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/dummies/NoDispatchSlottedCsmaP.nc
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/python/tinyos/utils
+END
+Watcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/python/tinyos/utils/Watcher.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/python/tinyos/utils/__init__.py
+END
+Singleton.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/python/tinyos/utils/Singleton.py
+END

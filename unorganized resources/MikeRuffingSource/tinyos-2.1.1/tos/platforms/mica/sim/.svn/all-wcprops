@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/sim
+END
+MeasureClockC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/sim/MeasureClockC.nc
+END
+HilTimerMilliC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/sim/HilTimerMilliC.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica/sim/PlatformC.nc
+END

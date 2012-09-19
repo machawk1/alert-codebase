@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2/chips/cc1000
+END
+HplCC1000SpiP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2/chips/cc1000/HplCC1000SpiP.nc
+END
+HplCC1000P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2/chips/cc1000/HplCC1000P.nc
+END
+HplCC1000C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2/chips/cc1000/HplCC1000C.nc
+END
+HplCC1000InitP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mica2/chips/cc1000/HplCC1000InitP.nc
+END

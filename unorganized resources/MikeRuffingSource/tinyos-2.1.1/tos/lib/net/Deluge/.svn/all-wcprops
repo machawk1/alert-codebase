@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/retasking_source/!svn/ver/14/trunk/tinyos-2.1.1/tos/lib/net/Deluge
+END
+AutoStarterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/AutoStarterC.nc
+END
+FakeBlockWriterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/FakeBlockWriterC.nc
+END
+ReprogramGuard.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/ReprogramGuard.nc
+END
+Globals.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/Globals.nc
+END
+DelugeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/14/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeP.nc
+END
+StatsCollectorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/StatsCollectorP.nc
+END
+DelugeMetadataP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeMetadataP.nc
+END
+DelugePageTransferP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugePageTransferP.nc
+END
+SerialStarterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/SerialStarterC.nc
+END
+DelugeVolumeManager.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeVolumeManager.nc
+END
+Mote.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/11/trunk/tinyos-2.1.1/tos/lib/net/Deluge/Mote.h
+END
+DelugeVolumeManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeVolumeManagerC.nc
+END
+ObjectTransferP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/ObjectTransferP.nc
+END
+Deluge.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/14/trunk/tinyos-2.1.1/tos/lib/net/Deluge/Deluge.h
+END
+BitVecUtils.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BitVecUtils.nc
+END
+DelugePageTransfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugePageTransfer.h
+END
+DelugeMetadata.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeMetadata.nc
+END
+DelugeC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/14/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeC.nc
+END
+StatsCollectorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/StatsCollectorC.nc
+END
+DelugeMetadataC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeMetadataC.nc
+END
+DelugePageTransferC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugePageTransferC.nc
+END
+ObjectTransferC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/ObjectTransferC.nc
+END
+DelugeManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/14/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeManagerP.nc
+END
+BitVecUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BitVecUtils.h
+END
+GlobalsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/GlobalsC.nc
+END
+DelugeMsgs.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeMsgs.h
+END
+DelugeVolumeManagerClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeVolumeManagerClientC.nc
+END
+AutoStarterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/AutoStarterP.nc
+END
+FakeBlockWriterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/FakeBlockWriterP.nc
+END
+BitVecUtilsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/BitVecUtilsC.nc
+END
+StorageMap.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/StorageMap.nc
+END
+DelugeManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeManagerC.nc
+END
+StatsCollector.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/StatsCollector.nc
+END
+FakeBlockReaderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/FakeBlockReaderC.nc
+END
+DelugePageTransfer.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugePageTransfer.nc
+END
+DelugeVolumeManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeVolumeManagerP.nc
+END
+DelugeMetadataClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/DelugeMetadataClientC.nc
+END
+imgNum2volumeId.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/imgNum2volumeId.h
+END
+ObjectTransfer.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/Deluge/ObjectTransfer.nc
+END

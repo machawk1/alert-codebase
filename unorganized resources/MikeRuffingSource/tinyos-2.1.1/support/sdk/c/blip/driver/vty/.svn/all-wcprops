@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/driver/vty
+END
+vty.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/driver/vty/vty.c
+END
+vty.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/driver/vty/vty.h
+END
+test_srv.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/driver/vty/test_srv.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/driver/vty/Makefile
+END
+vty-util.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/c/blip/driver/vty/vty-util.c
+END

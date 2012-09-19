@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/DemoSensorC.nc
+END
+SounderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/SounderC.nc
+END
+AccelReadP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/AccelReadP.nc
+END
+MagP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MagP.nc
+END
+MicStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MicStreamC.nc
+END
+MicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MicP.nc
+END
+.sensor
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/.sensor
+END
+MagReadStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MagReadStreamP.nc
+END
+MagXC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MagXC.nc
+END
+PhotoTempP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/PhotoTempP.nc
+END
+MicReadStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MicReadStreamP.nc
+END
+MagYC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MagYC.nc
+END
+AccelXC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/AccelXC.nc
+END
+PhotoTempDeviceC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/PhotoTempDeviceC.nc
+END
+AccelYC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/AccelYC.nc
+END
+Mag.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/Mag.nc
+END
+ArbitratedTempDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/ArbitratedTempDeviceP.nc
+END
+TempC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/TempC.nc
+END
+MagConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MagConfigP.nc
+END
+MicC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MicC.nc
+END
+MagReadP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MagReadP.nc
+END
+SensorMts300C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/SensorMts300C.nc
+END
+MicReadP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MicReadP.nc
+END
+Mts300Sounder.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/Mts300Sounder.nc
+END
+AccelP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/AccelP.nc
+END
+ArbitratedPhotoDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/ArbitratedPhotoDeviceP.nc
+END
+PhotoC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/PhotoC.nc
+END
+DemoSensorStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/DemoSensorStreamC.nc
+END
+AccelReadStreamP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/AccelReadStreamP.nc
+END
+SounderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/SounderP.nc
+END
+PhotoTempControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/PhotoTempControlP.nc
+END
+MicSetting.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MicSetting.nc
+END
+MicDeviceP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MicDeviceP.nc
+END
+MagXStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MagXStreamC.nc
+END
+MagYStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/MagYStreamC.nc
+END
+AccelConfigP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/AccelConfigP.nc
+END
+mts300.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/mts300.h
+END
+AccelXStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/AccelXStreamC.nc
+END
+AccelYStreamC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/sensorboards/mts300/AccelYStreamC.nc
+END

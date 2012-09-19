@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/bluetooth
+END
+RovingNetworksP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/bluetooth/RovingNetworksP.nc
+END
+RovingNetworksC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/bluetooth/RovingNetworksC.nc
+END
+Bluetooth.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/bluetooth/Bluetooth.nc
+END
+RovingNetworks.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/bluetooth/RovingNetworks.h
+END
+bluetoothBaudrateConversion.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/shimmer/chips/bluetooth/bluetoothBaudrateConversion.pdf
+END

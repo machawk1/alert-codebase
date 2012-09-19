@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/Base
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/Base/volumes-stm25p.xml
+END
+LowPowerSensingBaseC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/Base/LowPowerSensingBaseC.nc
+END
+LowPowerSensingBaseAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/Base/LowPowerSensingBaseAppC.nc
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/Base/volumes-at45db.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/LowPowerSensing/Base/Makefile
+END

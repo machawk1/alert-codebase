@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/at45db
+END
+HplAt45db_chip.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/at45db/HplAt45db_chip.h
+END
+At45dbSpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/at45db/At45dbSpi.h
+END
+HplAt45dbP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/at45db/HplAt45dbP.nc
+END
+HplAt45dbC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/at45db/HplAt45dbC.nc
+END
+SoftSpiAt45dbP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/at45db/SoftSpiAt45dbP.nc
+END
+SoftSpiAt45dbC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/at45db/SoftSpiAt45dbC.nc
+END

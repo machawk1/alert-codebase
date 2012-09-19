@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl
+END
+DefaultLpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl/DefaultLpl.h
+END
+DummyLplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl/DummyLplP.nc
+END
+DummyLplC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl/DummyLplC.nc
+END
+DefaultLplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl/DefaultLplP.nc
+END
+PowerCycleP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl/PowerCycleP.nc
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl/readme.txt
+END
+DefaultLplC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl/DefaultLplC.nc
+END
+PowerCycleC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/lpl/PowerCycleC.nc
+END

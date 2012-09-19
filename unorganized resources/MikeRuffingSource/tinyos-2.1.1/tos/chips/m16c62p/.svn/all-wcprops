@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p
+END
+McuSleepC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/McuSleepC.nc
+END
+m16c62phardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/m16c62phardware.h
+END
+interrupts.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/interrupts.h
+END
+bits.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/bits.h
+END
+McuSleepP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/McuSleepP.nc
+END
+iom16c62p.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/m16c62p/iom16c62p.h
+END

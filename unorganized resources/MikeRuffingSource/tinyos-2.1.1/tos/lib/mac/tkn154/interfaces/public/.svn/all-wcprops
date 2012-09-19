@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/interfaces/public
+END
+IEEE154BeaconFrame.nc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/interfaces/public/IEEE154BeaconFrame.nc
+END
+IEEE154Frame.nc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/interfaces/public/IEEE154Frame.nc
+END
+IEEE154TxBeaconPayload.nc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/mac/tkn154/interfaces/public/IEEE154TxBeaconPayload.nc
+END

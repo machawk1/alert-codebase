@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip
+END
+DisseminatorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DisseminatorP.nc
+END
+DipTrickleMilliC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipTrickleMilliC.nc
+END
+DipVersionC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipVersionC.nc
+END
+DipDataP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipDataP.nc
+END
+qsort.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/qsort.c
+END
+DipSummaryC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipSummaryC.nc
+END
+DipLogicC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipLogicC.nc
+END
+AMDipC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/AMDipC.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/README
+END
+DipTrickleMilliP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipTrickleMilliP.nc
+END
+DipVersionP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipVersionP.nc
+END
+DipVectorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipVectorC.nc
+END
+Dip.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/Dip.h
+END
+DisseminatorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DisseminatorC.nc
+END
+DipDataC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipDataC.nc
+END
+DisseminationC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DisseminationC.nc
+END
+DipSummaryP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipSummaryP.nc
+END
+DipLogicP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipLogicP.nc
+END
+AMDipP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/AMDipP.nc
+END
+DipVectorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/dip/DipVectorP.nc
+END

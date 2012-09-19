@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/msp430/adc12
+END
+BlockingAdcP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/msp430/adc12/BlockingAdcP.nc
+END
+BlockingAdcReadStreamClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/msp430/adc12/BlockingAdcReadStreamClientC.nc
+END
+BlockingAdcReadClientC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosthreads/chips/msp430/adc12/BlockingAdcReadClientC.nc
+END

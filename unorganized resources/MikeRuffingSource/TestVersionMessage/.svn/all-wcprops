@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/retasking_source/!svn/ver/7/trunk/TestVersionMessage
+END
+TestVersionMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/7/trunk/TestVersionMessage/TestVersionMessage.h
+END
+VersionMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/7/trunk/TestVersionMessage/VersionMessage.java
+END
+TestVersionMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/7/trunk/TestVersionMessage/TestVersionMessageC.nc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/retasking_source/!svn/ver/7/trunk/TestVersionMessage/Makefile
+END
+TestVersionMessageAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/7/trunk/TestVersionMessage/TestVersionMessageAppC.nc
+END

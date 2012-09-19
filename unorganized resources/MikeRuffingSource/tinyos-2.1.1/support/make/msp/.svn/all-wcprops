@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp
+END
+reinstall.extra
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp/reinstall.extra
+END
+bsl.extra
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp/bsl.extra
+END
+jtag.extra
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp/jtag.extra
+END
+debug.extra
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp/debug.extra
+END
+install.extra
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp/install.extra
+END
+msp.rules
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp/msp.rules
+END
+debugopt.extra
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp/debugopt.extra
+END
+id.extra
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/make/msp/id.extra
+END

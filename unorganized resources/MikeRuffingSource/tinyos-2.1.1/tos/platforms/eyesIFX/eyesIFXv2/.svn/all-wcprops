@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/eyesIFXv2
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/eyesIFXv2/.platform
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/eyesIFXv2/hardware.h
+END

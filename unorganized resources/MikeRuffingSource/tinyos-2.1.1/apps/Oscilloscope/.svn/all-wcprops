@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/Oscilloscope
+END
+OscilloscopeC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/Oscilloscope/OscilloscopeC.nc
+END
+OscilloscopeAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/Oscilloscope/OscilloscopeAppC.nc
+END
+Oscilloscope.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/Oscilloscope/Oscilloscope.h
+END
+oscilloscope.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/Oscilloscope/oscilloscope.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/Oscilloscope/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/Oscilloscope/Makefile
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util
+END
+PrintStreamMessenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util/PrintStreamMessenger.java
+END
+Dump.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util/Dump.java
+END
+Crc.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util/Crc.java
+END
+Env.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util/Env.java
+END
+Messenger.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util/Messenger.java
+END
+DiagMsg.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util/DiagMsg.java
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util/Makefile
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/support/sdk/java/net/tinyos/util/package.html
+END

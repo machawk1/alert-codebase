@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestFtsp/FtspLpl
+END
+TestFtspAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestFtsp/FtspLpl/TestFtspAppC.nc
+END
+TestFtsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestFtsp/FtspLpl/TestFtsp.h
+END
+TestFtspMsg.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestFtsp/FtspLpl/TestFtspMsg.py
+END
+FtspDataLogger.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestFtsp/FtspLpl/FtspDataLogger.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestFtsp/FtspLpl/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestFtsp/FtspLpl/README
+END
+TestFtspC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/TestFtsp/FtspLpl/TestFtspC.nc
+END

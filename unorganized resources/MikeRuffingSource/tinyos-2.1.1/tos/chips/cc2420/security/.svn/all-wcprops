@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/security
+END
+CC2420KeysP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/security/CC2420KeysP.nc
+END
+SecAMSenderP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/security/SecAMSenderP.nc
+END
+CC2420KeysC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/security/CC2420KeysC.nc
+END
+SecAMSenderC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/cc2420/security/SecAMSenderC.nc
+END

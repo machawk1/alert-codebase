@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430f1611
+END
+PluginC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430f1611/PluginC.nc
+END
+TOSBoot_platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430f1611/TOSBoot_platform.h
+END
+PowerOffC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/tosboot/msp430f1611/PowerOffC.nc
+END

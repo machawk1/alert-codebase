@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/RssiToSerial
+END
+SpecAnalyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/RssiToSerial/SpecAnalyzer.java
+END
+RssiToSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/RssiToSerial/RssiToSerialP.nc
+END
+RssiToSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/RssiToSerial/RssiToSerialC.nc
+END
+RssiToSerial.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/RssiToSerial/RssiToSerial.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/RssiToSerial/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/cc2420/RssiToSerial/Makefile
+END

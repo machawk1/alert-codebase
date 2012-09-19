@@ -1,4 +1,6 @@
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
+
 
 #On OS X, exec with arch -i386 python2.7 filename.py
 
@@ -19,10 +21,10 @@ class ExamplePanel(wx.Panel):
         self.vol1bsgi = wx.StaticText(self, label="BaseStation",pos=(col1,row1))
         self.vol2bsgi = wx.StaticText(self, label="BaseStation",pos=(col1,row2))
         self.vol3bsgi = wx.StaticText(self, label="BaseStation",pos=(col1,row3))
-        self.vol0bsgibox = wx.StaticBox(self, pos=(col1-5,row0-3),size=(200,40))
-        self.vol1bsgibox = wx.StaticBox(self, pos=(col1-5,row1-3),size=(200,40))
-        self.vol2bsgibox = wx.StaticBox(self, pos=(col1-5,row2-3),size=(200,40))
-        self.vol3bsgibox = wx.StaticBox(self, pos=(col1-5,row3-3),size=(200,40))
+        self.vol0bsgibox = wx.StaticBox(self, pos=(col1-5,row0-8),size=(200,40))
+        self.vol1bsgibox = wx.StaticBox(self, pos=(col1-5,row1-8),size=(200,40))
+        self.vol2bsgibox = wx.StaticBox(self, pos=(col1-5,row2-8),size=(200,40))
+        self.vol3bsgibox = wx.StaticBox(self, pos=(col1-5,row3-8),size=(200,40))
         png = wx.Image("trash.png", wx.BITMAP_TYPE_ANY).ConvertToBitmap()
         
         self.delete0 = wx.BitmapButton(self, id=-1, bitmap=png,pos=(col3 + png.GetWidth(), row0), size = (png.GetWidth()+5, png.GetHeight()+5))

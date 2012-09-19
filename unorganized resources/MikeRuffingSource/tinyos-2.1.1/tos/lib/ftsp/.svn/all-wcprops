@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp
+END
+TimeSyncMode.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp/TimeSyncMode.nc
+END
+TimeSyncNotify.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp/TimeSyncNotify.nc
+END
+TimeSyncInfo.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp/TimeSyncInfo.nc
+END
+TimeSyncMsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp/TimeSyncMsg.h
+END
+TimeSyncP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp/TimeSyncP.nc
+END
+TimeSync32kC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp/TimeSync32kC.nc
+END
+TimeSyncC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp/TimeSyncC.nc
+END
+GlobalTime.nc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/ftsp/GlobalTime.nc
+END

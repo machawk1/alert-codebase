@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2
+END
+DemoSensorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/DemoSensorC.nc
+END
+BlockStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/BlockStorageC.nc
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/ActiveMessageC.nc
+END
+hardware.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/hardware.h
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/PlatformSerialC.nc
+END
+PlatformReset.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/PlatformReset.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/PlatformC.nc
+END
+PlatformResetC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/PlatformResetC.nc
+END
+IM2InitSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/IM2InitSerialP.nc
+END
+ConfigStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/ConfigStorageC.nc
+END
+DemoSensorP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/DemoSensorP.nc
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/PlatformLedsC.nc
+END
+toscrt0.s
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/toscrt0.s
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/TimeSyncMessageC.nc
+END
+.platform
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/.platform
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/PlatformP.nc
+END
+HilTimerMilliC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/HilTimerMilliC.nc
+END
+LogStorageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/LogStorageC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/platform.h
+END
+tos.x
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/tos.x
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/intelmote2/platform_message.h
+END

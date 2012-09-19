@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/iris/chips/at45db
+END
+HplAt45dbIOC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/iris/chips/at45db/HplAt45dbIOC.nc
+END
+HplAt45dbIOP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/iris/chips/at45db/HplAt45dbIOP.nc
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/platform
+END
+RF230ReadLqiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/platform/RF230ReadLqiC.nc
+END
+CC2420ReadLqiC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/platform/CC2420ReadLqiC.nc
+END

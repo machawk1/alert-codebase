@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell
+END
+UDPShellP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/UDPShellP.nc
+END
+UDPShellC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/UDPShellC.nc
+END
+FlashShellP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/FlashShellP.nc
+END
+ShellCommand.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/ShellCommand.nc
+END
+ShellCommandP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/ShellCommandP.nc
+END
+FlashShellC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/FlashShellC.nc
+END
+ShellCommandC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/ShellCommandC.nc
+END
+RegisterShellCommand.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/RegisterShellCommand.nc
+END
+Shell.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/lib/net/blip/shell/Shell.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkTask
+END
+BlinkTaskC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkTask/BlinkTaskC.nc
+END
+BlinkTaskAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkTask/BlinkTaskAppC.nc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkTask/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tutorials/BlinkTask/Makefile
+END

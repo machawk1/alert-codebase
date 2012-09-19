@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/SerialBlink
+END
+BlinkC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/SerialBlink/BlinkC.nc
+END
+volumes-stm25p.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/SerialBlink/volumes-stm25p.xml
+END
+BlinkAppC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/SerialBlink/BlinkAppC.nc
+END
+volumes-at45db.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/SerialBlink/volumes-at45db.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/SerialBlink/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/apps/tests/deluge/SerialBlink/Makefile
+END

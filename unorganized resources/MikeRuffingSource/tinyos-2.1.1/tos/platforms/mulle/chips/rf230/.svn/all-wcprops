@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/rf230
+END
+HplRF230P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/rf230/HplRF230P.nc
+END
+HplRF230C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/rf230/HplRF230C.nc
+END
+SoftSpiRF230P.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/rf230/SoftSpiRF230P.nc
+END
+SoftSpiRF230C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/rf230/SoftSpiRF230C.nc
+END
+RF230SplitControlP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/rf230/RF230SplitControlP.nc
+END
+RadioConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/rf230/RadioConfig.h
+END
+Mulle_RF230Spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/mulle/chips/rf230/Mulle_RF230Spi.h
+END

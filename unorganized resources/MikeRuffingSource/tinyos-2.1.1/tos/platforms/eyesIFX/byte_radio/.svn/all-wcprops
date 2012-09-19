@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio
+END
+RssiFixedThresholdCMC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio/RssiFixedThresholdCMC.nc
+END
+manchester.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio/manchester.h
+END
+UartManchPhyP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio/UartManchPhyP.nc
+END
+UartManchPhyC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio/UartManchPhyC.nc
+END
+Uart4b6bPhyP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio/Uart4b6bPhyP.nc
+END
+RssiFixedThresholdCMP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio/RssiFixedThresholdCMP.nc
+END
+Uart4b6bPhyC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio/Uart4b6bPhyC.nc
+END
+code4b6b.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/byte_radio/code4b6b.h
+END

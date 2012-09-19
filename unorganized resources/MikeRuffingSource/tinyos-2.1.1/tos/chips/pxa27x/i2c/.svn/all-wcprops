@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/i2c
+END
+HalPXA27xI2CMasterP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/i2c/HalPXA27xI2CMasterP.nc
+END
+HalPXA27xI2CMasterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/i2c/HalPXA27xI2CMasterC.nc
+END
+HplPXA27xI2C.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/i2c/HplPXA27xI2C.nc
+END
+HplPXA27xI2CP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/i2c/HplPXA27xI2CP.nc
+END
+HplPXA27xI2CC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/i2c/HplPXA27xI2CC.nc
+END
+HplPXA27xPI2CC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/chips/pxa27x/i2c/HplPXA27xPI2CC.nc
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX
+END
+TimeSyncMessageP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/TimeSyncMessageP.nc
+END
+WideLocalTime.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/WideLocalTime.nc
+END
+table-crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/table-crc.h
+END
+ActiveMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/ActiveMessageC.nc
+END
+SmclkManagerP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/SmclkManagerP.nc
+END
+PlatformC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/PlatformC.nc
+END
+PlatformSerialC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/PlatformSerialC.nc
+END
+ActiveMessageFilterC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/ActiveMessageFilterC.nc
+END
+LocalTimeP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/LocalTimeP.nc
+END
+LplC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/LplC.nc
+END
+PacketStampP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/PacketStampP.nc
+END
+eyesIFXSerialP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/eyesIFXSerialP.nc
+END
+lf-crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/lf-crc.h
+END
+crc.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/crc.h
+END
+PlatformLedsC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/PlatformLedsC.nc
+END
+.family
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/.family
+END
+TimeSyncMessageC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/TimeSyncMessageC.nc
+END
+PlatformP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/PlatformP.nc
+END
+DummySleepP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/DummySleepP.nc
+END
+WhiteBitAccessorC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/WhiteBitAccessorC.nc
+END
+SmclkManagerC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/SmclkManagerC.nc
+END
+LedsP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/LedsP.nc
+END
+LplP.nc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/LplP.nc
+END
+RadioDataLinkC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/RadioDataLinkC.nc
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/platform.h
+END
+LocalTimeC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/LocalTimeC.nc
+END
+PacketStampC.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/PacketStampC.nc
+END
+platform_message.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/retasking_source/!svn/ver/4/trunk/tinyos-2.1.1/tos/platforms/eyesIFX/platform_message.h
+END
