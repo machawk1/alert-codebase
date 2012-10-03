@@ -24,19 +24,27 @@ implementation {
   bool busy = FALSE;
 
   void setLeds(uint16_t val) {
-    if(val < (255/25)){
-     call Leds.led0On();
+	/* ****************************************************  
+	 * Power level, the second number in the conditional
+	 *  should range from 0-31 
+	 * ************************************************* */
+	if(val == 0){	//no comm in awhile, turn 'em off!
+	 call Leds.led0Off();
      call Leds.led1Off();
      call Leds.led2Off();
-    }else if(val < 510/30){
-     call Leds.led0Off();
+	}else if(val < 10/1){			//red
+	 call Leds.led0On();
+     call Leds.led1Off();
+     call Leds.led2Off();
+    }else if(val < 17/1){	//yellow
+	 call Leds.led0Off();
+     call Leds.led1Off();
+     call Leds.led2On(); // yellow led is 2
+    }else if(val < 31/1){ // red
+	 call Leds.led0Off();
      call Leds.led1On();
      call Leds.led2Off();
-    }else{
-     call Leds.led0On();
-     call Leds.led1On();
-     call Leds.led2On();
-    }
+	}
   return;
   }
  
@@ -62,9 +70,8 @@ implementation {
     if (!busy) {
       ProximityMsg* btrpkt = 
 	(ProximityMsg*)(call Packet.getPayload(&pkt, sizeof(ProximityMsg)));
-      if (btrpkt == NULL) {
-	return;
-      }
+      if (btrpkt == NULL) {return;}
+      
       btrpkt->nodeid = TOS_NODE_ID;
       btrpkt->counter = counter;
       if (call AMSend.send(AM_BROADCAST_ADDR, 
@@ -72,6 +79,9 @@ implementation {
         busy = TRUE;
       }
     }
+    if(counter > 8){
+		setLeds(0);
+	}
   }
 
   event void AMSend.sendDone(message_t* msg, error_t err) {
@@ -85,7 +95,7 @@ implementation {
   rf230_metadata_t metadata = packetMetadata->rf230;
   uint8_t str = (&metadata)->power;
   setLeds(str);
-
+  counter = 0;
   return msg;
  }
 }
