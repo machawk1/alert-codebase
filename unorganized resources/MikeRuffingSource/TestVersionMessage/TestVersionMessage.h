@@ -4,7 +4,7 @@
 #define BLINKTORADIO_H
 
 enum {
-  AM_VERSIONMSG = 6,
+  AM_VERSIONMSG = 8,
   TIMER_PERIOD_MILLI = 1000
 };
 
