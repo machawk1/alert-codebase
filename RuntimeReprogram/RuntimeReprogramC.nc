@@ -112,6 +112,8 @@ implementation {
   // Deconstructing the message doesn't matter. When you've received one, halt
   //  drone nodes don't send packets
   
+    if(IS_LEADER == 1){return msg;} //the leader takes no orders
+  
   //if(str == 50){
   call Timer0.stop();
   call Leds.led0On();
