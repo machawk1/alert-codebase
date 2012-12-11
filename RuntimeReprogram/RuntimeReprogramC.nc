@@ -6,6 +6,10 @@
  */
 #include <Timer.h>
 #include "RuntimeReprogram.h"
+#include <avr/boot.h>
+#include <avr/wdt.h>
+#include "Deluge.h"
+#include "StorageVolumes.h"
 
 module RuntimeReprogramC {
   uses interface Boot;
@@ -16,6 +20,9 @@ module RuntimeReprogramC {
   uses interface AMSend;
   uses interface Receive;
   uses interface SplitControl as AMControl;
+  uses interface NetProg;
+  //uses interface DelugeVolumeManager;
+  //uses interface DelugeC;
 }
 implementation {
 
@@ -119,8 +126,15 @@ implementation {
   call Leds.led0On();
   call Leds.led1On();
   call Leds.led2On();
+  
+  //call DelugeVolumeManager.erase(1);
+  call NetProg.reboot();
+  
+  //Deluge.changeState(S_IDLE);
   //}
   
   return msg;
  }
+ 
+  //event void DelugeVolumeManager.eraseDone(uint8_t imgNum) {}
 }

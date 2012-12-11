@@ -17,6 +17,10 @@ implementation {
   components new AMSenderC(AM_PROXIMITY);
   components new AMReceiverC(AM_PROXIMITY);
   components DelugeC;
+  //components DelugeVolumeManagerC;
+  components NetProgC;
+  //components new DelugeVolumeManagerClientC();
+
 
   App.Boot -> MainC;
   App.Leds -> LedsC;
@@ -26,4 +30,8 @@ implementation {
   App.AMControl -> ActiveMessageC;
   App.AMSend -> AMSenderC;
   App.Receive -> AMReceiverC;
+  App.NetProg -> NetProgC;
+//  App.DelugeVolumeManager -> DelugeVolumeManager;
+  //App.DelugeVolumeManager -> DelugeVolumeManagerClientC;
+  //App.DelugeC -> DelugeC;
 }
