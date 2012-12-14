@@ -8,8 +8,9 @@
 #include "RuntimeReprogram.h"
 #include <avr/boot.h>
 #include <avr/wdt.h>
-#include "Deluge.h"
+//#include "Deluge.h"
 #include "StorageVolumes.h"
+#include "crc.h"
 
 module RuntimeReprogramC {
   uses interface Boot;
@@ -20,15 +21,16 @@ module RuntimeReprogramC {
   uses interface AMSend;
   uses interface Receive;
   uses interface SplitControl as AMControl;
-  uses interface NetProg;
-  //uses interface DelugeVolumeManager;
-  //uses interface DelugeC;
+  //uses interface NetProg;
+  //uses interface Deluge;
+  //uses interface Init;
 }
 implementation {
-
+  
   uint16_t counter;
   message_t pkt;
   bool busy = FALSE;
+  RTRMsg * leaderMsg;
 
   void setLeds(uint16_t val) {
 	if(val == 0){
@@ -78,32 +80,31 @@ implementation {
 
   event void Timer0.fired() {
     counter++;
-    
-    if(IS_LEADER == 1){
-      RTRMsg* leaderMsg = (RTRMsg*)(call Packet.getPayload(&pkt, sizeof(RTRMsg)));
-      
-      leaderMsg->nodeid = TOS_NODE_ID;
-      leaderMsg->counter = counter;
-      if (call AMSend.send(AM_BROADCAST_ADDR, &pkt, sizeof(RTRMsg)) == SUCCESS) {
-        busy = TRUE;
-      }
-      if(counter % 3 == 0){
-		setLeds(1);
-	  }else if(counter % 3 == 1){
-		setLeds(10);
-	  }else if(counter % 3 == 2){
-		setLeds(100);
-	  }
-      
-      return;
-    }
-    
-    
-    //simple blink to show in runtime loop
-    if(counter % 2 == 0){
-		setLeds(0);
+    leaderMsg = (RTRMsg *)(call Packet.getPayload(&pkt, sizeof(RTRMsg)));
+
+	leaderMsg->nodeid = TOS_NODE_ID;
+	leaderMsg->counter = counter;
+	
+	if(IS_LEADER == 1){
+		leaderMsg->sentFromLeader = 1;
+		if(counter % 3 == 0){
+			setLeds(1);
+		}else if(counter % 3 == 1){
+			setLeds(10);
+		}else if(counter % 3 == 2){
+			setLeds(100);
+		}
 	}else {
-		setLeds(1);
+		leaderMsg->sentFromLeader = 0;		
+		//simple blink to show in runtime loop
+		if(counter % 2 == 0){
+			setLeds(0);
+		}else {
+			setLeds(1);
+		}
+	}
+	if (call AMSend.send(AM_BROADCAST_ADDR, &pkt, sizeof(RTRMsg)) == SUCCESS) {
+		busy = TRUE;
 	}
   }
 
@@ -114,27 +115,19 @@ implementation {
   }
 
  event message_t* Receive.receive(message_t* msg, void* payload, uint8_t len){
-  RTRMsg* leaderMsg = (RTRMsg*)(call Packet.getPayload(msg, sizeof(RTRMsg)));
-  //uint8_t str = (&metadata)->nodeid;
-  // Deconstructing the message doesn't matter. When you've received one, halt
-  //  drone nodes don't send packets
+  leaderMsg = (RTRMsg*)(call Packet.getPayload(msg, sizeof(RTRMsg)));
   
-    if(IS_LEADER == 1){return msg;} //the leader takes no orders
+  if(IS_LEADER == 1){return msg;} //the leader takes no orders
+  if(!(leaderMsg->sentFromLeader)){return msg;} //non-leaders only take commands from the leader!
   
-  //if(str == 50){
   call Timer0.stop();
   call Leds.led0On();
   call Leds.led1On();
   call Leds.led2On();
   
-  //call DelugeVolumeManager.erase(1);
-  call NetProg.reboot();
-  
-  //Deluge.changeState(S_IDLE);
-  //}
+  //call NetProg.reboot();
+  //call Deluge.forceMoteToRecvState();
   
   return msg;
  }
- 
-  //event void DelugeVolumeManager.eraseDone(uint8_t imgNum) {}
 }

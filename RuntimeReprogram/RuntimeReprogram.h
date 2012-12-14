@@ -1,6 +1,7 @@
 #ifndef RUNTIMEREPROGRAM_H
 #define RUNTIMEREPROGRAM_H
 
+
 enum {
   AM_PROXIMITY = 6,
   TIMER_PERIOD_MILLI = 2000,
@@ -10,6 +11,7 @@ enum {
 typedef nx_struct RTRMsg {
   nx_uint16_t nodeid;
   nx_uint16_t counter;
+  nx_uint16_t sentFromLeader;
 } RTRMsg;
 
 #endif

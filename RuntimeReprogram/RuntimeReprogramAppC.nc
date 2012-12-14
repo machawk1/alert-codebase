@@ -5,6 +5,7 @@
  */
 #include <Timer.h>
 #include "RuntimeReprogram.h"
+#include <hardware.h>
 
 configuration RuntimeReprogramAppC {
 }
@@ -16,12 +17,9 @@ implementation {
   components ActiveMessageC;
   components new AMSenderC(AM_PROXIMITY);
   components new AMReceiverC(AM_PROXIMITY);
+  //components NetProgC;
   components DelugeC;
-  //components DelugeVolumeManagerC;
-  components NetProgC;
-  //components new DelugeVolumeManagerClientC();
-
-
+ 
   App.Boot -> MainC;
   App.Leds -> LedsC;
   App.Timer0 -> Timer0;
@@ -30,8 +28,6 @@ implementation {
   App.AMControl -> ActiveMessageC;
   App.AMSend -> AMSenderC;
   App.Receive -> AMReceiverC;
-  App.NetProg -> NetProgC;
-//  App.DelugeVolumeManager -> DelugeVolumeManager;
-  //App.DelugeVolumeManager -> DelugeVolumeManagerClientC;
-  //App.DelugeC -> DelugeC;
+  //App.NetProg -> NetProgC;
+  //App.Deluge -> DelugeC;
 }
