@@ -13,7 +13,7 @@ class motesGUI(Tkinter.Tk):
     ERROR_NEED_DELUGE_BASES = "You need Deluge in ~/DelugeBases"			#Warning that Deluge cannot be changed until we get the sources
     DIR_LOCAL_DELUGE_BASES = "~/DelugeBases"								
     DIR_DELUGE_BASES_TAR_GZ = "/DelugeBases.tar.gz"
-    DIR_DELUGE = "/opt/tinyos-2.1.1/tos/lib/net/Deluge/"    
+    DIR_DELUGE = "/opt/tinyos-2.1.2/tos/lib/net/Deluge/"    
    
 	
     def __init__(self,parent):
@@ -100,7 +100,7 @@ class motesGUI(Tkinter.Tk):
         self.entry = Tkinter.Entry(self,textvariable=self.entryVariable)
         self.entry.grid(column=0,row=5,columnspan=2,sticky='EW')
         #self.entry.bind("<Return>", self.OnPressEnter)
-        self.entryVariable.set("/opt/tinyos-2.1.1/apps/MatAllocate")
+        self.entryVariable.set("/opt/tinyos-2.1.2/apps/MatAllocate")
 	
         self.labelVariable = Tkinter.StringVar()
         label = Tkinter.Label(self,textvariable=self.labelVariable, width="30", anchor="w")
@@ -156,7 +156,7 @@ class motesGUI(Tkinter.Tk):
     def initMoteWithGoldenImage(self,andErase): 
 	try:
 	  self.alert("Initializing mote with GoldenImage")
-	  self.runCommand("make -C /opt/tinyos-2.1.1/apps/tests/deluge/GoldenImage iris install,1 mib520,/dev/ttyUSB0 > /dev/null")
+	  self.runCommand("make -C /opt/tinyos-2.1.2/apps/tests/deluge/GoldenImage iris install,1 mib520,/dev/ttyUSB0 > /dev/null")
 	  if(andErase):
 		self.runCommand("tos-deluge serial@/dev/ttyUSB1:57600 -e 1")
 		self.runCommand("tos-deluge serial@/dev/ttyUSB1:57600 -e 1")
@@ -173,7 +173,7 @@ class motesGUI(Tkinter.Tk):
     def initMoteWithBasestationImage(self,andErase):
  	self.alert("Initializing mote with Basestation image")
 	
-	self.runCommand("make -C /opt/tinyos-2.1.1/apps/tests/deluge/Basestation iris install,0 mib520,/dev/ttyUSB0")
+	self.runCommand("make -C /opt/tinyos-2.1.2/apps/tests/deluge/Basestation iris install,0 mib520,/dev/ttyUSB0")
 	if(andErase):
 		self.runCommand("tos-deluge serial@/dev/ttyUSB1:57600 -e 1") 
 		#TODO: check, after this first command, if the erase error is "5". If so, run the second command
