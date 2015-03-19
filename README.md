@@ -1,7 +1,7 @@
 # ALERT codebase
 This site servers as the code repository for the various resources developed for ALERT and related mote-based projects. All code currently available is accessible through Mercurial and viewable through (project)>source>browser .
 
-* [Proximity](../tree/master/Proximity)- simple NesC example to extract information from a TinyOS packet and display on a respective mote's LEDs to represent distance from another mote.
+* [Proximity](../../tree/master/Proximity)- simple NesC example to extract information from a TinyOS packet and display on a respective mote's LEDs to represent distance from another mote.
 * [RuntimeReprogram](../tree/master/RuntimeReprogram) - the beginnings of the ALERT task of reprogramming a mote at runtime without modifications required to the core Deluge code.
 * [unorganized resources](../tree/master/unorganized%20resources/)
   * [Chinmay's Code Switching](../tree/master/unorganized%20resources/ChinmaysCodeSwitching) - retained code from Chinmay Lokesh for reference.
